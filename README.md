@@ -12,12 +12,14 @@ Education
     Malware analysis
     Penetration testing
     Cryptography
+
 Skills
   Programming Languages: Python, C++, Java
   Tools & Technologies: Wireshark, Metasploit, Burp Suite, Linux
   Other Skills: System analysis, vulnerability detection, secure programming
 Contact
 📧 Email: thienthanzxy@gmail.com
+
 
 
 Closing Note

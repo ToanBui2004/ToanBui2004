@@ -11,13 +11,13 @@ Education
   Major: Information Security
   Interests:
     
-    System and network security
-    
-    Malware analysis
-    
-    Penetration testing
-    
-    Cryptography
+      System and network security
+      
+      Malware analysis
+      
+      Penetration testing
+      
+      Cryptography
 
 Skills
   
@@ -26,6 +26,7 @@ Skills
   Tools & Technologies: Wireshark, Metasploit, Burp Suite, Linux
   
   Other Skills: System analysis, vulnerability detection, secure programming
+
 Contact
 📧 Email: thienthanzxy@gmail.com
 
